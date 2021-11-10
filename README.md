@@ -6,6 +6,12 @@ I find it useful - like a billboard that is quickly tuned out after seeing it ev
 
 It's all built in React, Express, Mongo.  
 
+There's a lot of dead code in there, a lot of refactoring to do (a lot off the one big server file into smaller parts), adding styled-components, etc. 
+
+It was a great project to put together and a great way to learn some of the fundamentals of React! 
+
+Next steps would be implementing Redux and Routing, two things I've worked after deploying the initial version of this app.
+
 I have yet to add some extra functions and clean up the code. There's still refactoring to be done, adding comments to my own work, and seperating out stylesheets for specific components.
 
 Alex
