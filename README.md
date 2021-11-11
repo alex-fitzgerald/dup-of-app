@@ -12,6 +12,6 @@ It was a great project to put together and a great way to learn some of the fund
 
 Next steps would be implementing Redux and Routing, two things I've worked after deploying the initial version of this app.
 
-I have yet to add some extra functions and clean up the code. There's still refactoring to be done, adding comments to my own work, and seperating out stylesheets for specific components.
+I have yet to add some extra functions and clean up the code. There's still refactoring to be done, adding comments to my own work, and seperating out stylesheets for specific components. The code itself is a mess, and should be tidied up at some point! 
 
 Alex
