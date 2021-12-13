@@ -1,6 +1,6 @@
 Hi,
 
-This is an app I created for myself to provide random daily goals and reminders. 
+This is a duplicate of an app I created for myself to provide random daily goals and reminders. 
 
 I find it useful - like a billboard that is quickly tuned out after seeing it every morning, the same reminders or goals every day can become just 'noise'. I find some variety and randomness keeps them more engaging.
 
